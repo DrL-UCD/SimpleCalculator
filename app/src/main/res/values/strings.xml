@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="label_input1">Input 1:</string>
+    <string name="label_input2">Input 2:</string>
+    <string name="label_action">Action</string>
+    <string name="radio_button_add">+</string>
+    <string name="radio_button_subtract">-</string>
+    <string name="radio_button_multiply">x</string>
+    <string name="radio_button_divide">/</string>
+    <string name="label_result">Result</string>
+    <string name="label_round_to">Round To</string>
+    <string name="label_result_after_rounding">Rounded</string>
+    <string name="label_decimal_formatted">Decimal</string>
+    <string name="button_clear">Clear</string>
+    <string name="button_calculate">Calculate</string>
+</resources>
